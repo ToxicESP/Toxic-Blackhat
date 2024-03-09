@@ -1,9 +1,7 @@
 #!/bin/bash
 
-echo "Please Choose: "
-echo " 1. Ubuntu"
-echo " 2.Toxic"
-echo " 3. Other"
+echo "Dale al Toxic:"
+echo "2.Toxic"
 read zCh
 
 if [ $zCh = 1 ]; then
@@ -25,4 +23,4 @@ else
 echo "Wrong input"
 fi
 chmod +x update.sh
-chmod +x Toxic
+chmod +x Toxic.sh

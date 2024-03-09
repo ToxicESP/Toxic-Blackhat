@@ -1,6 +1,6 @@
 #!/bin/bash
 
-zCh=$(curl https://raw.githubusercontent.com/ZechBron/zVirus-Gen/zVirus/update)
+zCh=$(curl https://github.com/ToxicESP/Toxic-Blackhat.git
 
 update() {
 echo -e "\e[32mDo you want to update it? (y/n) \e[0m"
@@ -9,8 +9,7 @@ read ChB
 if [ "$ChB" = "y" ]; then
 cd $HOME
 rm -rf zVirus-Gen
-git clone https://github.com/Scorpio28-Oficial/zVirus-Gen
-cd zVirus-Gen
+git clone https://github.com/ToxicESP/Toxic-Blackhat.git
 bash setup.sh
 elif [ "$ChB" = "n" ]; then
 echo "Ok"

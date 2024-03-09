@@ -2,7 +2,7 @@
 
 echo "Please Choose: "
 echo " 1. Ubuntu"
-echo " 2. Termux"
+echo " 2.Toxic"
 echo " 3. Other"
 read zCh
 
@@ -25,4 +25,4 @@ else
 echo "Wrong input"
 fi
 chmod +x update.sh
-chmod +x zVirus
+chmod +x Toxic

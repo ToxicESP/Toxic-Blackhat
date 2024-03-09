@@ -51,4 +51,4 @@ echo -e "\e[92mVersion 2.0 available\e[0m"
 update
 fi
 
-echo -e "\e[92mzVirus Version 1.4 will be release soon. Once version 1.4 is released, some of the commands will be changed.\nBut worry not. All you have to do is to type: bash update.sh to update zVirus in version 1.4. As of now, you have to wait."
+echo -e "\e[92mzVirus Version 1.4 will be release soon. Once version 1.4 is released, some of the commands will be changed.\nBut worry not. All you have to do is to type: bash update.sh to update Toxic in version 1.4. As of now, you have to wait."
